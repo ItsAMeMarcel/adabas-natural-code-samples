@@ -9,7 +9,7 @@ The example program shows the usage of the following Natural File Transfer funct
 
 ## Requirements ##
 
-You can use Entire Connection of NaturalONE as client. For NaturalONE you need the following setup:
+You can use Entire Connection or NaturalONE as client. For NaturalONE you need the following setup:
 
 * NaturalONE version 9.2.1 Fix 5 or newer
 * Natural on Linux 9.2.1 Fix 6 or newer
